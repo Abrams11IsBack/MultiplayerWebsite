@@ -1,3 +1,5 @@
+alert("gratulacje użytkowniku")
+
 const aktywator = document.querySelector("button");
 const koniecSwiata = document.querySelector("#dron");
 

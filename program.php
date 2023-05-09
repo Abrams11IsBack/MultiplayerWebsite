@@ -1,5 +1,5 @@
 <?php
-echo "Nie stać nas na hosting backendu";
+echo "Nie stać nas na hosting backend";
 
 $servername = "debil";
 $username = "debil";

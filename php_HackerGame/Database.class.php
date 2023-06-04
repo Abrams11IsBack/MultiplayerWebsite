@@ -88,11 +88,5 @@ if (isset($_POST['mysql_host'])) {
 
 		<input type="submit" name="submit" value="Connect + kwerenda">
 	</form>
-
-	<h3>Kwerenda</h3>
-	<form method="POST" action="">
-		<textarea name="query" rows="5" cols="40" placeholder="Kwerenda:"></textarea><br>
-		<input type="submit" name="submit_query" value="Execute Query">
-	</form>
 </body>
 </html>
